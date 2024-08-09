@@ -6,7 +6,7 @@
 - https://www.linkedin.com/in/rohan-jangam-593648211/
 - vinod.sweethoney.kumar@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: no funfacts
+- ⚡ Fun fact: good at problem solving and trying to enhance and upscale at tech in every way possible
 
 <!---
 rohan-27p/rohan-27p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
